@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ivan Ballespí
 
-<!--
-**ivanballespi/ivanballespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolupador Web & Tècnic de Sistemes**
 
-Here are some ideas to get you started:
+Perfil enfocat al desenvolupament d'aplicacions i gestió d'infraestructures. Formació acadèmica en **DAW** (Desenvolupament d'Aplicacions Web) i **SMX** (Sistemes Microinformàtics i Xarxes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiència i Capacitats
+* **Desenvolupament:** Implementació de lògica de negoci, gestió de bases de dades SQL i integracions de sistemes.
+* **Sistemes:** Suport tècnic (Help Desk), administració d'entorns Linux/Windows i xarxes.
+* **Stack:** JavaScript, Java, PHP, SQL, HTML/CSS.
+
+### Objectiu Professional
+Cerca activa de projectes basats en programació pura i arquitectura de programari, prioritzant el desenvolupament de codi a mida per sobre de solucions preconfigurades.
+
+---
+📧 **Contacte:** ivanballmon23@gmail.com
