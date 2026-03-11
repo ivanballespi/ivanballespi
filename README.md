@@ -10,7 +10,7 @@ Perfil enfocat al desenvolupament d'aplicacions i gestió d'infraestructures. Fo
 * **Stack:** JavaScript, Java, PHP, SQL, HTML/CSS.
 
 ### Objectiu Professional
-Cerca activa de projectes basats en programació pura i arquitectura de programari, prioritzant el desenvolupament de codi a mida per sobre de solucions preconfigurades.
+Cerca activa de projectes basats en programació pura i arquitectura de programari, prioritzant el desenvolupament de codi
 
 ---
 📧 **Contacte:** ivanballmon23@gmail.com
